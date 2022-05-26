@@ -1,0 +1,4 @@
+{
+    "jupyter.kernels.filter": [],
+    "python.formatting.provider": "black"
+}
